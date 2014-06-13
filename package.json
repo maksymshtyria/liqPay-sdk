@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/maksymshtyria/liqPay-sdk.git"
   },
+  "dependencies": {
+    "underscore": "*",
+  },
   "author": "maksym.shtyria",
   "license": "ISC",
   "bugs": {
