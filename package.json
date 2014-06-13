@@ -1,0 +1,19 @@
+{
+  "name": "liqPay-sdk",
+  "version": "0.0.1",
+  "description": "LiqPay api for node js developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maksymshtyria/liqPay-sdk.git"
+  },
+  "author": "maksym.shtyria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksymshtyria/liqPay-sdk/issues"
+  },
+  "homepage": "https://github.com/maksymshtyria/liqPay-sdk"
+}
