@@ -1,1 +1,1 @@
-module.exports = require('lib/sdk.js');
+module.exports = require('./lib/sdk.js');
